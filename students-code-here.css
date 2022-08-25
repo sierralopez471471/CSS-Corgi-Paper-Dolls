@@ -6,7 +6,7 @@
 
 .bandana{
     position: absolute;
-    top: 180px;
+    top: 177px;
     left: 105px;
 }
 
@@ -19,4 +19,9 @@
 .luna{
     position: sticky;
     left: 0px;
+}
+
+.top-hat{
+    position: relative;
+    z-index: 1;
 }
